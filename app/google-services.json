@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595950650673",
+    "project_id": "akschat-a61b8",
+    "storage_bucket": "akschat-a61b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595950650673:android:9e9b567f086192ece89c10",
+        "android_client_info": {
+          "package_name": "com.example.akschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595950650673-0tpoiqjnql7ol9oo3ta4etc1rv354mlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhly_ENQLGwLLjXqtOJMEdt8-RuK2UQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595950650673-0tpoiqjnql7ol9oo3ta4etc1rv354mlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
